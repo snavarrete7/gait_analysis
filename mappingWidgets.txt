@@ -1,0 +1,207 @@
+For mapping form/tab with widget name:
+
+rt1 - option1
+rt1 - option2
+rt1 - label6
+rt1 - list3
+rt1 - command28
+rt1 - cmdSensorHealth
+rt1 - command34
+rt1 - command14
+rt1 - label15
+rt1 - list9
+rt1 - label28
+rt1 - command13
+rt1 - command12
+rt1 - command11
+rt1 - UpDown1
+rt1 - label39
+rt1 - text20
+rt1 - label16
+rt1 - text4
+rt1 - combo3
+rt1 - check1
+rt1 - combo4
+rt1 - text5
+rt1 - label17
+rt1 - combo5
+rt1 - label22
+rt1 - MainList
+rt2 - label43
+rt2 - combo1
+rt2 - label54
+rt2 - calendar1
+rt2 - label24
+rt2 - list11
+rt2 - command21
+rt2 - command22
+rt2 - command23
+rt2 - command4
+rt2 - list14
+rt2 - label49
+rt2 - list15
+rt2 - check4
+rt2 - label59
+rt2 - text24
+rt2 - frame3
+rt2 - frame3_label3
+rt2 - frame3_label18
+rt2 - frame3_text1
+rt2 - frame3_text7
+rt2 - frame3_label4
+rt2 - frame3_label19
+rt2 - frame3_text2
+rt2 - frame3_text8
+rt2 - frame3_label5
+rt2 - frame3_label20
+rt2 - frame3_text3
+rt2 - frame3_text9
+rt2 - frame3_label25
+rt2 - frame3_text10
+rt2 - frame3_command29
+rt2 - timeAxis
+rt2 - axis
+rt2 - stockChartx1
+rt2 - rangetool1
+rt3 - label1
+rt3 - list1
+rt3 - label64
+rt3 - text34
+rt3 - command1
+rt3 - command2
+rt3 - command3
+rt3 - UpDown2
+rt3 - label7
+rt3 - cs (type CodeSense)
+rt3 - command5
+rt3 - imlPopup (invis) (type ImageList)
+rt4 - label41
+rt4 - list13
+rt4 - label40
+rt4 - list12
+rt4 - command32
+rt4 - label42
+rt4 - check2
+rt4 - Text_Daily (invis)
+rt4 - stockChartx4
+rt5_comparison - frame4
+rt5_comparison - frame4_label12
+rt5_comparison - frame4_list5
+rt5_comparison - frame4_label13
+rt5_comparison - frame4_UpDown3
+rt5_comparison - frame4_List6
+rt5_comparison - frame4_label65
+rt5_comparison - frame4_UpDown4
+rt5_comparison - frame4_list17
+rt5_comparison - frame4_label9
+rt5_comparison - frame4_UpDown5
+rt5_comparison - frame4_list4
+rt5_comparison - frame5
+rt5_comparison - frame5_command7
+rt5_comparison - frame6
+rt5_comparison - frame6_label21
+rt5_comparison - frame6_list7
+rt5_comparison - frame6_command20
+rt5_comparison - frame6_command19
+rt5_comparison - frame6_command18
+rt5_comparison - frame6_label63
+rt5_comparison - frame6_text6
+rt5_comparison - frame6_label35
+rt5_comparison - frame6_text19
+rt5_comparison - ChartPattern (type StockChartx)
+rt5_deviation - frame2
+rt5_deviation - frame2_label36
+rt5_deviation - frame2_list8
+rt5_deviation - frame2_label52
+rt5_deviation - frame2_list19
+rt5_deviation - frame2_label53
+rt5_deviation - frame2_list20
+rt5_deviation - frame2_label31
+rt5_deviation - frame2_list16
+rt5_deviation - frame7
+rt5_deviation - frame7_command24
+rt5_deviation - frame7_command44
+rt5_deviation - frame8
+rt5_deviation - frame8_label14
+rt5_deviation - frame8_TreeView1
+rt5_deviation - frame8_command25
+rt5_deviation - frame8_command26
+rt5_deviation - frame8_command27
+rt5_deviation - frame8_label58
+rt5_deviation - frame8_TreeView2
+rt5_deviation - label44
+rt5_deviation - MSChart1
+rt5_deviation - text23
+rt6 - label2
+rt6 - list2
+rt6 - command8
+rt6 - command9
+rt6 - command10
+rt6 - text17 (invis?)
+rt6 - label32
+rt6 - list10
+rt6 - frame1
+rt6 - frame1_label23
+rt6 - frame1_label29
+rt6 - frame1_label30
+rt6 - frame1_label26
+rt6 - frame1_text11
+rt6 - frame1_label33
+rt6 - frame1_text12
+rt6 - frame1_label11
+rt6 - frame1_label27
+rt6 - frame1_text13
+rt6 - frame1_label34
+rt6 - frame1_text14
+rt6 - frame1_label50
+rt6 - frame1_label28
+rt6 - frame1_text15
+rt6 - frame1_label47
+rt6 - frame1_text16
+rt6 - frame1_label51
+rt6 - frame1_command38
+rt6 - label8
+rt6 - FRI_list (type MSFlexGrid)
+rt6 - command35
+rt6 - command40
+rt6 - label10
+rt6 - FRI_table (type MSFlexGrid)
+rt6 - PieChart (type MSChart)
+rt6 - frame9_ (invis but functional)
+rt6 - frame9_OptiList (type MSFlexGrid) (invis but functional)
+rt6 - frame9_command41 (invis but functional)
+rt6 - frame9_command43 (invis but functional)
+rt6 - frame9_command42 (invis but functional)
+rt6 - frame9_check3 (invis but functional)
+rt6 - frame9_label55 (invis but functional)
+rt6 - frame9_text18 (invis but functional)
+rt6 - frame9_label56 (invis but functional)
+rt6 - frame9_text21 (invis but functional)
+rt7 - label45
+rt7 - combo2
+rt7 - label46
+rt7 - Subject_List (type MSFlexGrid)
+
+Menu:
+mnuopenconfig
+mnusaveconfig
+
+Odd widgets:
+rt1 - WebBrowser1
+rt1 - ScriptControl1
+rt1 - Winsock
+rt1 - KillTimer
+rt1 - TimerDaily
+
+Definitely unused:
+rt7 - SC_Activity
+rt7 - SC_FRI
+rt7 - SC_NoOfSteps
+rt7 - SC_Falls
+rt7 - SC_Parameter
+rt7 - Text_Activity
+rt7 - Text_FRI
+rt7 - Text_NoOfSteps
+rt7 - Text_Falls
+rt7 - Text_Parameter
+rt7 - Image_Ampel
